@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi there 👋 I'm a Senior Software Engineer
 
-<!--
-**null-pointer-9/null-pointer-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&width=600&lines=Full-Stack+Engineer;React+%7C+Node.js+%7C+Python+%7C+Go;Building+Scalable+Web+Applications;Clean+Code+%E2%9A%A1+Cloud+Architecture" />
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+Senior Software Engineer focused on building scalable web applications, high-performance backend systems, and modern user experiences.
+
+I specialize in full-stack development using **React, Node.js, Python, and Go**, with experience designing production-grade systems, APIs, cloud infrastructure, and developer-focused architectures.
+
+Passionate about:
+- ⚡ Scalable system design
+- 🧠 Clean architecture & maintainable code
+- ☁️ Cloud-native applications
+- 🚀 Performance optimization
+- 🤝 Team collaboration & engineering culture
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,go" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,githubactions" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="mailto:your@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+⭐ Always building, learning, and shipping impactful software.
